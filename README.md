@@ -8,6 +8,7 @@ Project Analysis of the 250 Best Rated Movies on IMDb:
 In this project, it was possible to transform multivalued cells into single-valued ones, create calculated columns, new measures, clean “dirt” from data, correct and create new relationships between tables, edit interactions between visuals, among others. 
 <br><br>
 Billing Project for the Gatitos Petshop, carried out for the Alura course: PowerBI - Building my First Dashboard
+
 <div>
   <a href="https://app.powerbi.com/view?r=eyJrIjoiNzQ3MzZiMmItOTkxYy00OWIwLWJhYzgtMDNlYjUxZGI3ZGU4IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9" target="_blank">Gatito PetShop</a>
 </div>
